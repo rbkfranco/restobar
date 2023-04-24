@@ -1,0 +1,22 @@
+/* reset */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* GENERAL PAGES */
+
+body{
+    background-color: black;
+}
+.navbar{
+    color: transparent;
+}
+.navbar-light{
+    color: transparent;
+}
+.logo{
+    margin: 0;
+    width: 200px;
+    height: 100px;
+}
